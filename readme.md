@@ -1,8 +1,9 @@
-# Atoti is a Data Analytics platform with a best-in-class calculation engine, a visualization suite, and a real-time OLAP cube — all rolled into one
+# Atoti
+Data Analytics platform with a best-in-class calculation engine, a visualization suite, and a real-time OLAP cube — all rolled into one
 
-## Check out (atoti.io)[https://www.atoti.io/] for more info. For enterprise solutions, reach out to (ActiveViam)[https://www.activeviam.com/].
+### Check out https://www.atoti.io/ for more info. For enterprise solutions, reach out to https://www.activeviam.com/
 
-## Steps
+### Steps
 - Create a Python Virtual Environment: python -m venv atitobi
 - Activate VE: .\atotibi\Scripts\activate
 - Install Jupyter Lab: pip install jupyterlab
@@ -16,7 +17,7 @@
 - - http://localhost:8888/lab?token=82e12c0f46326c3956c6264ebd3b92678ce153a19ee07e6e
 - - Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 
-## Highlights
+### Highlights
 - Analyze a billion rows on your laptop and up to 10 terabytes in the cloud
 - Create multiple what-if scenarios without duplicating your data
 - Integrate data in real time from multiple sources with continuous queries

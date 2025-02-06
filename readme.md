@@ -3,6 +3,8 @@ Data Analytics platform with a best-in-class calculation engine, a visualization
 
 ### Check out https://www.atoti.io/ for more info. For enterprise solutions, reach out to https://www.activeviam.com/
 
+### Data - Kaggle: https://www.kaggle.com/datasets/sanjay0/fl-insurance-samplecsv?resource=download
+
 ### Steps
 - Create a Python Virtual Environment: python -m venv atitobi
 - Activate VE: .\atotibi\Scripts\activate

@@ -1,9 +1,12 @@
-# Atoti
+# Atoti - ACTIVEVIAM
 Data Analytics platform with a best-in-class calculation engine, a visualization suite, and a real-time OLAP cube — all rolled into one
 
-### Check out https://www.atoti.io/ for more info. For enterprise solutions, reach out to https://www.activeviam.com/
+### Check out ATOTI & ACTIVEVIAM
+- https://www.atoti.io/ for more info. 
+- For enterprise solutions, reach out to https://www.activeviam.com/
 
-### Data - Kaggle: https://www.kaggle.com/datasets/sanjay0/fl-insurance-samplecsv?resource=download
+### Data - Kaggle: 
+- https://www.kaggle.com/datasets/sanjay0/fl-insurance-samplecsv?resource=download
 
 ### Steps
 - Create a Python Virtual Environment: python -m venv atitobi
@@ -18,6 +21,15 @@ Data Analytics platform with a best-in-class calculation engine, a visualization
 - - Jupyter Server 2.15.0 is running at:
 - - http://localhost:8888/lab?token=82e12c0f46326c3956c6264ebd3b92678ce153a19ee07e6e
 - - Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+
+### Dashboard
+- ![Dashboard](dashboards.png)
+- Plots: ![Plots](newplot.png)
+
+### nbconvert
+- Convert '.ipynb' to '.html' using command below:
+- - jupyter nbconvert .\bi_atoti.ipynb --to html
+- File: ![HTML](bi_atoti.html)
 
 ### Highlights
 - Analyze a billion rows on your laptop and up to 10 terabytes in the cloud
